@@ -11,4 +11,4 @@ These related links conatins link which when clicked renders to different blogs
 
 Link to the Data Source :- https://niravkpatel28.github.io/json-data-server/blogs/blogs.json
 
-Link to the Employee Card:- https://jewel-7.github.io/Employee-Card/
+Link to the Employee Card:- https://jewel-7.github.io/Blog-Ren/
